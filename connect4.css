@@ -1,14 +1,10 @@
-td{
+
+
+.board button{
   height: 100px;
   width: 100px;
-  text-align: center;
-  border: none;
-
-}
-
-.button {
   background-color: grey;
-  border: 5px solid black;
+  border: 4px solid black;
   color: white;
   padding: 50px;
   text-align: center;
@@ -16,5 +12,5 @@ td{
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  border-radius: 50%;
 }
-.button5 {border-radius: 50%;}
